@@ -6,10 +6,9 @@ and counting the number of islands in a 2d array.
 
 If you wish to install end run/edit the code:
 
-How to compile: &nbsp;
-&nbsp;
+How to compile:  
 javac Test.java 
 
-How to run: &nbsp;
+How to run:  
 java Test
 
